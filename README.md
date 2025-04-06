@@ -1,2 +1,2 @@
-# AliceKane
-Alice Kane interviews
+# Demos of AI tools
+Posting apps from Dify etc.
